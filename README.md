@@ -49,8 +49,4 @@ chmod +x Techintellgence.bash
 This tool is intended for authorized security testing, educational purposes, and lab environments only. Users are responsible for complying with applicable laws and obtaining permission before scanning systems or networks.
 
 
-<p align="center">
-  <img src="img/a.png" width="700">
-</p>
-
-<h3 align="center">Tech Intelligence Scanner</h3>
+![Tech Intelligence Banner](img/a.png)
