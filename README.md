@@ -29,6 +29,8 @@ Tech Intelligence Scanner is a Bash-based cybersecurity framework that automates
 * HTML Reports
 * Interactive Hacker-Style Interface
 
+![Tech Intelligence Banner](img/a.png)
+
 ## Requirements
 
 * Nmap
