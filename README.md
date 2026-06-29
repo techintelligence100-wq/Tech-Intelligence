@@ -38,12 +38,19 @@ Tech Intelligence Scanner is a Bash-based cybersecurity framework that automates
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Tech-Intelligence-Scanner.git
-cd Tech-Intelligence-Scanner
-chmod +x techintel.sh
-./techintel.sh
+git clone https://github.com/techintelligence100-wq/Tech-Intelligence.git
+cd Tech-Intelligence
+chmod +x Techintellgence.bash
+./Techintellgence.bash
 ```
 
 ## Disclaimer
 
 This tool is intended for authorized security testing, educational purposes, and lab environments only. Users are responsible for complying with applicable laws and obtaining permission before scanning systems or networks.
+
+
+<p align="center">
+  <img src="img/a.png" width="700">
+</p>
+
+<h3 align="center">Tech Intelligence Scanner</h3>
